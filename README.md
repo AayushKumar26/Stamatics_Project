@@ -11,7 +11,7 @@ An end‑to‑end exploration of time‑series analysis and forecasting, this pr
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 1. **Understand** the components of time series (trend, seasonality, residuals) via interactive visualizations.
 2. **Implement** statistical forecasting algorithms (ARMA, ARIMA) with confidence intervals for future retail sales.
@@ -21,7 +21,7 @@ An end‑to‑end exploration of time‑series analysis and forecasting, this pr
 
 ---
 
-## 📚 Repository Contents
+## Repository Contents
 
 - **Assignment Sections (3 folders):** Each assignment folder contains a detailed problem statement and complete solution notebooks covering:
   - **Assignment 1:** Time‑series decomposition and EDA.
@@ -34,7 +34,7 @@ An end‑to‑end exploration of time‑series analysis and forecasting, this pr
 
 ---
 
-## 🗂 Presentation & Core Notebook
+## Presentation & Core Notebook
 
 - **Project Presentation (PPT):** A comprehensive slide deck (`Resources/Time_Series_Presentation.pptx`) walks through the entire workflow:
   - Background and objectives of retail sales forecasting.
@@ -54,6 +54,6 @@ An end‑to‑end exploration of time‑series analysis and forecasting, this pr
 
 ---
 
-## 📂 Resources
+## Resources
 
 All raw and processed data files, along with reference papers, presentation slides, and utility scripts, are uploaded in the `Resources/` directory for easy access and reproducibility.
